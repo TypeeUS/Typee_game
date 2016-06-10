@@ -1,0 +1,30 @@
+E:\4.5\Typing Master\Typing Master\Typing Master\bin\Debug\Typing Master.exe.config
+E:\4.5\Typing Master\Typing Master\Typing Master\bin\Debug\Typing Master.exe
+E:\4.5\Typing Master\Typing Master\Typing Master\bin\Debug\Typing Master.pdb
+E:\4.5\Typing Master\Typing Master\Typing Master\obj\Debug\Typing Master.csprojResolveAssemblyReference.cache
+E:\4.5\Typing Master\Typing Master\Typing Master\obj\Debug\Typing_Master.Form1.resources
+E:\4.5\Typing Master\Typing Master\Typing Master\obj\Debug\Typing_Master.Properties.Resources.resources
+E:\4.5\Typing Master\Typing Master\Typing Master\obj\Debug\Typing Master.csproj.GenerateResource.Cache
+E:\4.5\Typing Master\Typing Master\Typing Master\obj\Debug\Typing Master.exe
+E:\4.5\Typing Master\Typing Master\Typing Master\obj\Debug\Typing Master.pdb
+E:\4.5\Typing Master\Typing Master\bin\Debug\Typing Master.exe.config
+E:\4.5\Typing Master\Typing Master\obj\Debug\Typing Master.exe
+E:\4.5\Typing Master\Typing Master\obj\Debug\Typing Master.pdb
+E:\4.5\Typing Master 1\Typing Master\bin\Debug\Typing Master.exe.config
+E:\4.5\Typing Master 1\Typing Master\obj\Debug\Typing Master.exe
+E:\4.5\Typing Master 1\Typing Master\obj\Debug\Typing Master.pdb
+E:\4.5\Typing Master 1\Typing Master\bin\Debug\Typing Master.exe
+E:\4.5\Typing Master 1\Typing Master\bin\Debug\Typing Master.pdb
+E:\4.5\Typing Master 1\Typing Master\obj\Debug\Typing Master.csprojResolveAssemblyReference.cache
+E:\4.5\Typing Master 1\Typing Master\obj\Debug\Typing_Master.Form1.resources
+E:\4.5\Typing Master 1\Typing Master\obj\Debug\Typing_Master.Properties.Resources.resources
+E:\4.5\Typing Master 1\Typing Master\obj\Debug\Typing Master.csproj.GenerateResource.Cache
+C:\Users\Jounx-\Desktop\Typing Master C# Source Code\Typing Master\bin\Debug\Typing Master.exe.config
+C:\Users\Jounx-\Desktop\Typing Master C# Source Code\Typing Master\obj\Debug\Typing Master.exe
+C:\Users\Jounx-\Desktop\Typing Master C# Source Code\Typing Master\obj\Debug\Typing Master.pdb
+C:\Users\Jounx-\Desktop\Typing Master C# Source Code\Typing Master\bin\Debug\Typing Master.exe
+C:\Users\Jounx-\Desktop\Typing Master C# Source Code\Typing Master\bin\Debug\Typing Master.pdb
+C:\Users\Jounx-\Desktop\Typing Master C# Source Code\Typing Master\obj\Debug\Typing Master.csprojResolveAssemblyReference.cache
+C:\Users\Jounx-\Desktop\Typing Master C# Source Code\Typing Master\obj\Debug\Typing_Master.Form1.resources
+C:\Users\Jounx-\Desktop\Typing Master C# Source Code\Typing Master\obj\Debug\Typing_Master.Properties.Resources.resources
+C:\Users\Jounx-\Desktop\Typing Master C# Source Code\Typing Master\obj\Debug\Typing Master.csproj.GenerateResource.Cache
