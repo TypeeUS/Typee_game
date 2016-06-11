@@ -77,14 +77,14 @@
             // lblCorrect
             // 
             this.lblCorrect.Name = "lblCorrect";
-            this.lblCorrect.Size = new System.Drawing.Size(54, 17);
-            this.lblCorrect.Text = "Correct:?";
+            this.lblCorrect.Size = new System.Drawing.Size(45, 17);
+            this.lblCorrect.Text = "Benar:?";
             // 
             // lblMissed
             // 
             this.lblMissed.Name = "lblMissed";
-            this.lblMissed.Size = new System.Drawing.Size(52, 17);
-            this.lblMissed.Text = "Missed:?";
+            this.lblMissed.Size = new System.Drawing.Size(43, 17);
+            this.lblMissed.Text = "Salah:?";
             // 
             // lblTotal
             // 
@@ -95,8 +95,8 @@
             // lblAccuracy
             // 
             this.lblAccuracy.Name = "lblAccuracy";
-            this.lblAccuracy.Size = new System.Drawing.Size(64, 17);
-            this.lblAccuracy.Text = "Accuracy:?";
+            this.lblAccuracy.Size = new System.Drawing.Size(54, 17);
+            this.lblAccuracy.Text = "Akurasi:?";
             // 
             // difficultyProgressBar
             // 
@@ -146,9 +146,10 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.MainMenuStrip = this.menuStrip1;
             this.MaximizeBox = false;
-            this.MinimizeBox = false;
+            this.MinimumSize = new System.Drawing.Size(16, 39);
             this.Name = "Form1";
-            this.Text = "http://www.code-kings.com";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Typee";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
             this.statusStrip1.ResumeLayout(false);

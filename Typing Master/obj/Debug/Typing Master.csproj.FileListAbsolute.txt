@@ -28,3 +28,12 @@ C:\Users\Jounx-\Desktop\Typing Master C# Source Code\Typing Master\obj\Debug\Typ
 C:\Users\Jounx-\Desktop\Typing Master C# Source Code\Typing Master\obj\Debug\Typing_Master.Form1.resources
 C:\Users\Jounx-\Desktop\Typing Master C# Source Code\Typing Master\obj\Debug\Typing_Master.Properties.Resources.resources
 C:\Users\Jounx-\Desktop\Typing Master C# Source Code\Typing Master\obj\Debug\Typing Master.csproj.GenerateResource.Cache
+D:\Typee_game\Typing Master\bin\Debug\Typing Master.exe.config
+D:\Typee_game\Typing Master\obj\Debug\Typing Master.exe
+D:\Typee_game\Typing Master\obj\Debug\Typing Master.pdb
+D:\Typee_game\Typing Master\bin\Debug\Typing Master.exe
+D:\Typee_game\Typing Master\bin\Debug\Typing Master.pdb
+D:\Typee_game\Typing Master\obj\Debug\Typing Master.csprojResolveAssemblyReference.cache
+D:\Typee_game\Typing Master\obj\Debug\Typing_Master.Form1.resources
+D:\Typee_game\Typing Master\obj\Debug\Typing_Master.Properties.Resources.resources
+D:\Typee_game\Typing Master\obj\Debug\Typing Master.csproj.GenerateResource.Cache
