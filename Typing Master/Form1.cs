@@ -55,10 +55,10 @@ namespace Typing_Master
                 stats.Update(false);
             }
             // Update the labels on the StatusStrip
-            lblCorrect.Text = "Correct: " + stats.Correct;
-            lblMissed.Text = "Missed: " + stats.Missed;
+            lblCorrect.Text = "Benar: " + stats.Correct;
+            lblMissed.Text = "Salah: " + stats.Missed;
             lblTotal.Text = "Total: " + stats.Total;
-            lblAccuracy.Text = "Accuracy: " + stats.Accuracy + "%";
+            lblAccuracy.Text = "Akurasi: " + stats.Accuracy + "%";
         }
         private void Form1_Load(object sender, EventArgs e)
         {
