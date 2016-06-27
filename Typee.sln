@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Typing Master", "Typing Master\Typing Master.csproj", "{55EA39B8-16C1-4755-9D19-54A7ED1CDD1D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Typee", "Typing Master\Typee.csproj", "{55EA39B8-16C1-4755-9D19-54A7ED1CDD1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
