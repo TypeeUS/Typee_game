@@ -1,0 +1,3 @@
+D:\Typee_game\Typing Master\bin\Debug\Typing Master.exe.config
+D:\Typee_game\Typing Master\obj\Debug\Typing Master.exe
+D:\Typee_game\Typing Master\obj\Debug\Typing Master.pdb

@@ -31,8 +31,8 @@ namespace Typing_Master
         }
         private void Form1_KeyDown(object sender, KeyEventArgs e)
         {
-            // If the user pressed a key that's in the ListBox, remove it
-            // and then make the game a little faster
+            // Jika user benar, maka nilai yang benar akan dihilangkan
+            // dan game akan menjadi lebih cepat
             if (listBox1.Items.Contains(e.KeyCode))
             {
                 listBox1.Items.Remove(e.KeyCode);
